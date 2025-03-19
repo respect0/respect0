@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=respect0&layout=compact&theme=tokyonight)  
 
 ## 📫 Contact Me  
-[![Discord](https://img.shields.io/badge/Discord-rgfrkn%238375-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me/919663047923101736)  
+[![Discord](https://img.shields.io/badge/respect0-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me/919663047923101736)  
 
 ---
 
