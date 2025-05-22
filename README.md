@@ -3,7 +3,7 @@
 🔹 **Current Projects I'm Working On:**  
 - 🏰 [CraftLuna](https://craftluna.net) - A Towny-based Minecraft server  
 - 🧾 [FaturamVar](https://github.com/faturamvar) - Invoice tracking system (In development!)
-- 🧾 [Cordtop](https://cordtop.com) - Monitors and ranks metrics of discord servers
+- 🤖 [Cordtop](https://cordtop.com) - Monitors and ranks metrics of discord servers
 - 🎮 [VoxelArcStudios](https://voxelarc.net) - Coming soon 
 
 ## 🛠️ Tech Stack I Use  
